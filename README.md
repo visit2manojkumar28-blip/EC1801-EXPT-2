@@ -79,11 +79,8 @@ module tb2;
 
 endmodule
 
+<img width="1312" height="1199" alt="Logic Gates Truth Tables Poster" src="https://github.com/user-attachments/assets/6afc775b-03d1-41bc-b811-dc971b3bb66b" />
 
-
-
- 
-<img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/8a343bdb-ffb4-4aac-8b88-cf59eca374a8" /> 
 
 # Simulation Procedure
 STEP 1 – Open Terminal
